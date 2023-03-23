@@ -13,8 +13,8 @@ I am a third year Engineering Undergraduate from [Graphic Era University, Dehrad
 
 <h2 align="left">✉️ Find me on</h2>
 <p align="center">
- <a href="https://www.linkedin.com/in/khushi-upadhyay-68bab81ba/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="60" style="vertical-align:top; margin:4px"></a> &nbsp
- <a href="mailto:khushi.upa16@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="60" style="vertical-align:top; margin:4px"></a> &nbsp
+ <a href="https://www.linkedin.com/in/khushi-upadhyay-68bab81ba/" target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/106996372/227294979-e5ac3403-4255-4d6f-9a96-9f696d8a1844.png" alt="Python" height="60" style="vertical-align:top; margin:4px"></a> &nbsp
+ <a href="mailto:khushi.upa16@gmail.com"> <img src="https://user-images.githubusercontent.com/106996372/227295143-0076a93f-01c6-4d77-9ee0-1ac1ca1ab541.png" alt="Python" height="60" style="vertical-align:top; margin:4px"></a> &nbsp
  <a href="https://twitter.com/khuzii07"> <img src="https://user-images.githubusercontent.com/106996372/227270288-19d28fef-344a-4f69-ab1f-ead3480aa6f9.png" alt="Python" height="60" style="vertical-align:top; margin:4px"></a> &nbsp
 </p>
 
