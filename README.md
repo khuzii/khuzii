@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-![Hey](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fgifs%2Fsearch%2Fbabies%2Bsaying%2Bhello%2B%25E2%2599%25A5&psig=AOvVaw0bqOQCCGg-b_cSQ2yGDRlQ&ust=1679664936148000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNjHqNGV8v0CFQAAAAAdAAAAABAE)
+![Hey](https://gfycat.com/nextrepulsivebighornsheep-hello-avocado-dancing-happy-sweet-there)
 
 I am a third year Engineering Undergraduate from [Graphic Era University, Dehradun](https://www.geu.ac.in/). My major is Computer Science. I am an emerging Software Engineer, who is currently aiming to learn about different technologies.
 
