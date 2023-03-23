@@ -31,7 +31,8 @@ I am a third year Engineering Undergraduate from [Graphic Era University, Dehrad
 <h2 align="left">Github Trophies<h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khuzii" alt="khuzii" /></a> </p>
 
-<h2 align="left">Github Stats<h2>
+<h2 align="left">Github Stats</h2>
+ 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=khuzii&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khuzii&theme=tokyonight)
