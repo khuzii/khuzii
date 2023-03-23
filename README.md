@@ -1,5 +1,7 @@
 ### Hey there 👋
 
+(https://myoctocat.com/assets/images/base-octocat.svg)
+
 I am a third year Engineering Undergraduate from [Graphic Era University, Dehradun](https://www.geu.ac.in/). My major is Computer Science. I am an emerging Software Engineer, who is currently aiming to learn about different technologies.
 
 
