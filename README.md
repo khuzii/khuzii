@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-![Hey](https://gfycat.com/nextrepulsivebighornsheep-hello-avocado-dancing-happy-sweet-there)
+![Hey](https://thumbs.gfycat.com/NextRepulsiveBighornsheep-mobile.mp4)
 
 I am a third year Engineering Undergraduate from [Graphic Era University, Dehradun](https://www.geu.ac.in/). My major is Computer Science. I am an emerging Software Engineer, who is currently aiming to learn about different technologies.
 
