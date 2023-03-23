@@ -31,7 +31,9 @@ I am a third year Engineering Undergraduate from [Graphic Era University, Dehrad
  <img src="https://user-images.githubusercontent.com/106996372/227271975-75f3f9f8-fa07-492f-abea-64503beee7f5.png" alt="Machine Learning" height="60" style="vertical-align:top; margin:4px"> &nbsp
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="60" style="vertical-align:top; margin:4px"> &nbsp
 </p>
-<br />
+
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=khuzii&show_icons=true&theme=tokyonight)
-<br />
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khuzii&theme=tokyonight)
