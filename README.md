@@ -1,7 +1,6 @@
 ### Hey there 👋
 
-![Hey](https://user-images.githubusercontent.com/106996372/227222305-a4f7083a-de77-4690-839b-490bcc011a52.gif)
-
+![hey](https://user-images.githubusercontent.com/106996372/227223018-a04823a4-4120-4c8e-9c75-38a0df3d8550.gif | width=100)
 
 I am a third year Engineering Undergraduate from [Graphic Era University, Dehradun](https://www.geu.ac.in/). My major is Computer Science. I am an emerging Software Engineer, who is currently aiming to learn about different technologies.
 
