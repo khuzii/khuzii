@@ -36,7 +36,7 @@ I am a third year Engineering Undergraduate from [Graphic Era University, Dehrad
 
  <h2 align="left">🖥Top Languages</h2>
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khuzii&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHUZII&theme=tokyonight)
 
  <h2 align="left">🔥Github Streaks</h2>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khuzii&" alt="khuzii" /></p>
